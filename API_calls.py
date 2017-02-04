@@ -7,7 +7,7 @@ import httplib2 as http
 
 if __name__ == "__main__":
     # Authentication parameters
-    headers = {'AccountKey': 'TBPkx2DwSWucB+tTzS7G/Q==',
+    headers = {'AccountKey': '***',
                'accept': 'application/json'}  # this is by default
 
     # API parameters
